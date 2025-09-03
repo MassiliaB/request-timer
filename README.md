@@ -36,6 +36,9 @@ python3 request_timer.py <url> \
 ````
 
 -p: payload files (in placeholder order)
+
 -b: request body, with placeholders §1§, §2§...
+
 -H: headers (placeholders can also be used)
+
 -X: HTTP method (GET, POST, PUT...)
